@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "email": "adam@gmail.com",
+      "phone": "09033224567",
+      "address": "Nigeria",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Zach",
+      "email": "zachgmail.com",
+      "phone": "234569478",
+      "address": "Austrailia",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Jane",
+      "email": "janem@gmail.com",
+      "phone": "44712675",
+      "address": "USA",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Dave",
+      "email": "dave01@gmail.com",
+      "phone": "23958403",
+      "address": "UK",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Sarah",
+      "email": "sarah@gmail.com",
+      "phone": "08134567894",
+      "address": "Nigeria",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Michael",
+      "email": "michael@gmail.com",
+      "phone": "447812341234",
+      "address": "USA",
+      "status": "Inactive"
+    },
+    {
+      "id": 7,
+      "name": "Russell",
+      "email": "russell@gmail.com",
+      "phone": "44567654354",
+      "address": "USA",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Ella",
+      "email": "ella@gmail.com",
+      "phone": "109234657",
+      "address": "UK",
+      "status": "Inactive"
+    },
+    {
+      "id": 9,
+      "name": "Kvaraskelia",
+      "email": "kvicha@gmail.com",
+      "phone": "9980123678",
+      "address": "Georgia",
+      "status": "Inactive"
+    },
+    {
+      "id": 10,
+      "name": "Guten Tag",
+      "email": "guten@gmail.com",
+      "phone": "6445678214",
+      "address": "Germany",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "name": "Elfasson",
+      "email": "elfas@gmail.com",
+      "phone": "331890765",
+      "address": "Finland",
+      "status": "Inactive"
+    },
+    {
+      "id": 12,
+      "name": "Miguel",
+      "email": "miggy@gmail.com",
+      "phone": "877890143",
+      "address": "Spain",
+      "status": "Inactive"
+    },
+    {
+      "id": 13,
+      "name": "Guiterez",
+      "email": "guity@gmail.com",
+      "phone": "190456534",
+      "address": "Mexico",
+      "status": "Active"
+    },
+    {
+      "id": 14,
+      "name": "Almiron",
+      "email": "almy194@gmail.com",
+      "phone": "001232455423",
+      "address": "Paraguay",
+      "status": "Inactive"
+    }
+  ]
+}
